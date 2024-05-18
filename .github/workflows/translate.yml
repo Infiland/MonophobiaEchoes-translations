@@ -8,7 +8,7 @@ on:
 jobs:
   copy-translation:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout private repository
       uses: actions/checkout@v2
@@ -16,6 +16,7 @@ jobs:
         repository: Infiland/MonophobiaEchoes
         ref: translation
         path: private-repo
+        token: ${{ secrets.GH_PAT }}
 
     - name: Clone public repository
       uses: actions/checkout@v2
@@ -35,4 +36,4 @@ jobs:
         git commit -m "Update translation file"
         git push origin translation
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_PAT }}
