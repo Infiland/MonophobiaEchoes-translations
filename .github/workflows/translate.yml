@@ -1,0 +1,38 @@
+name: Copy Translation File
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  copy-translation:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout private repository
+      uses: actions/checkout@v2
+      with:
+        repository: Infiland/MonophobiaEchoes
+        ref: translation
+        path: private-repo
+
+    - name: Clone public repository
+      uses: actions/checkout@v2
+      with:
+        repository: Infiland/MonophobiaEchoesTranslation
+        path: public-repo
+
+    - name: Copy translation file
+      run: cp public-repo/text.csv private-repo/Core/Languages/text.csv
+
+    - name: Commit and push changes
+      run: |
+        cd private-repo
+        git config user.name 'GitHub Actions'
+        git config user.email 'actions@github.com'
+        git add Core/Languages/text.csv
+        git commit -m "Update translation file"
+        git push origin translation
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
