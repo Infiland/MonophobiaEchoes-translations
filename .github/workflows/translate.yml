@@ -31,7 +31,7 @@ jobs:
     - name: Commit and push changes
       run: |
         cd private-repo
-        git config user.name 'GitHub Actions'
+        git config user.name 'Mr. Translation Guy'
         git config user.email 'actions@github.com'
         git add Core/Languages/text.csv
         git commit -m "Update translation file"
