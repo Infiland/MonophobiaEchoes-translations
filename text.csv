@@ -1,0 +1,13 @@
+KEYS;en;de;es;pl;fr;it;rs
+MENU_WARNING;WARNING:\n\nThis game is about a person's life, relationships, family, addiction, and ultimately, loneliness.\n\nIt covers heavy topics that many can't handle.;WARNUNG:\n\nIn diesem Spiel geht es um das Leben, die Beziehungen, die Familie, die Sucht und letztendlich die Einsamkeit eines Menschen.\n\nEs behandelt schwere Themen, mit denen viele nicht umgehen können.;ADVERTENCIA:\n\nEste juego trata sobre la vida, las relaciones, la familia, la adicción y, en última instancia, la soledad de una persona.\n\nCubre temas pesados que muchos no pueden manejar.;1;1;1;UPOZORENJE:\n\nOva igra se radi o nečijem životu, vezama, porodici, zavisnosti, i zaključno, o samoći.\n\nIgra sadrži teme koje mnogi ne mogu da podnesu.
+MENU_STARTGAME;Start the Game;Starte das Spiel;Comenzar el juego;2;2;2;Počni igricu
+MENU_BACK;Back;Zurück;Atrás;3;3;3;Naza
+MENU_APPLYANDSAVE;Apply and save;Bewerben und speichern;Aplicar y guardar;4;4;4;Potvrdi i sačuvaj
+MENU_SETTINGS;Settings;Einstellungen;Ajustes;5;5;5;Podešavanja
+MENU_GRAPHICS;Graphics;Grafik;Gráficos;6;6;6;Grafika
+MENU_AUDIO;Audio;7;7;7;7;7;7
+MENU_INPUT;Input;8;8;8;8;8;8
+MENU_LANGUAGES;Languages;9;9;9;9;9;9
+MENU_OTHER;Other;10;10;10;10;10;10
+MENU_CLICKTOCONTINUE;Click to continue;Klicke um Fortzufahren;Haz click para continuar;11;11;11;Klikni da nastaviš
+SHADOW_GRAPHICSQUALITY;Shadow Quality;12;12;12;12;12;12
