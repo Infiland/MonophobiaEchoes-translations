@@ -23,6 +23,7 @@ jobs:
       with:
         repository: Infiland/MonophobiaEchoesTranslation
         path: public-repo
+        token: ${{ secrets.GH_PAT }}
 
     - name: Copy translation file
       run: cp public-repo/text.csv private-repo/Core/Languages/text.csv
