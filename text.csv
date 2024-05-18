@@ -7,7 +7,7 @@ MENU_SETTINGS;Settings;Einstellungen;Ajustes;5;5;5;Podešavanja
 MENU_GRAPHICS;Graphics;Grafik;Gráficos;6;6;6;Grafika
 MENU_AUDIO;Audio;7;7;7;7;7;7
 MENU_INPUT;Input;8;8;8;8;8;8
-MENU_LANGUAGES;Languages;9;9;9;9;9;9
-MENU_OTHER;Other;10;10;10;10;10;10
+MENU_LANGUAGES;Languages;9;9;9;9;9;Jezici
+MENU_OTHER;Other;10;10;10;10;10;Ostalo
 MENU_CLICKTOCONTINUE;Click to continue;Klicke um Fortzufahren;Haz click para continuar;11;11;11;Klikni da nastaviš
-SHADOW_GRAPHICSQUALITY;Shadow Quality;12;12;12;12;12;12
+SHADOW_GRAPHICSQUALITY;Shadow Quality;12;12;12;12;12;Kvalitet Senke
