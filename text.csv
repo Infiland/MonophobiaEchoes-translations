@@ -12,8 +12,8 @@ MENU_OTHER;Other;10;10;10;10;10;Ostalo
 MENU_CLICKTOCONTINUE;Click to continue;Klicke um Fortzufahren;Haz click para continuar;11;11;11;Klikni da nastaviš
 GRAPHICS_SHADOW;Shadow Quality;12;12;12;12;12;Kvalitet Senke
 GRAPHICS_PARTICLE;Particle Quality;13;13;13;13;13;13
-GRAPHICS_TEXTURE;Texture Quality;14;14;14;14;14;14
-GRAPHICS_PBR;PBR Materials;15;15;15;15;15;15
+GRAPHICS_TEXTURE;Texture Quality;14;14;14;14;14;Kvalitet Teksture
+GRAPHICS_PBR;PBR Materials;15;15;15;15;15;PBR Materijali
 GRAPHICS_LOD;Level of Detail Quality;16;16;16;16;16;16
 GRAPHICS_VSYNC;Vertical Sync;17;17;17;17;17;17
 GRAPHICS_FULLSCREEN;Fullscreen;18;18;18;18;18;18
