@@ -1,39 +1,39 @@
-KEYS;en;de;es;pl;fr;it;rs
-MENU_WARNING;WARNING:\n\nThis game is about a person's life, relationships, family, addiction, and ultimately, loneliness.\n\nIt covers heavy topics that many can't handle.;WARNUNG:\n\nIn diesem Spiel geht es um das Leben, die Beziehungen, die Familie, die Sucht und letztendlich die Einsamkeit eines Menschen.\n\nEs behandelt schwere Themen, mit denen viele nicht umgehen können.;ADVERTENCIA:\n\nEste juego trata sobre la vida, las relaciones, la familia, la adicción y, en última instancia, la soledad de una persona.\n\nCubre temas pesados que muchos no pueden manejar.;1;1;1;UPOZORENJE:\n\nOva igra se radi o nečijem životu, vezama, porodici, zavisnosti, i zaključno, o samoći.\n\nIgra sadrži teme koje mnogi ne mogu da podnesu.
-MENU_STARTGAME;Start the Game;Starte das Spiel;Comenzar el juego;2;2;2;Počni igricu
-MENU_BACK;Back;Zurück;Atrás;3;3;3;Nazad
-MENU_APPLYANDSAVE;Apply and save;Bewerben und speichern;Aplicar y guardar;4;4;4;Potvrdi i sačuvaj
-MENU_SETTINGS;Settings;Einstellungen;Ajustes;5;5;5;Podešavanja
-MENU_GRAPHICS;Graphics;Grafik;Gráficos;6;6;6;Grafika
-MENU_AUDIO;Audio;7;7;7;7;7;Zvuk
-MENU_INPUT;Input;8;8;8;8;8;Kontrole
-MENU_LANGUAGES;Languages;9;9;9;9;9;Jezici
-MENU_OTHER;Other;10;10;10;10;10;Ostalo
-MENU_CLICKTOCONTINUE;Click to continue;Klicke um Fortzufahren;Haz click para continuar;11;11;11;Klikni da nastaviš
-GRAPHICS_SHADOW;Shadow Quality;12;12;12;12;12;Kvalitet Senke
-GRAPHICS_PARTICLE;Particle Quality;13;13;13;13;13;13
-GRAPHICS_TEXTURE;Texture Quality;14;14;14;14;14;Kvalitet Teksture
-GRAPHICS_PBR;PBR Materials;15;15;15;15;15;PBR Materijali
-GRAPHICS_LOD;Level of Detail Quality;16;16;16;16;16;16
-GRAPHICS_VSYNC;Vertical Sync;17;17;17;17;17;17
-GRAPHICS_FULLSCREEN;Fullscreen;18;18;18;18;18;18
-GRAPHICS_GI;Global Illumination;19;19;19;19;19;19
-GRAPHICS_VF;Volumetric Fog;20;20;20;20;20;20
-GRAPHICS_QUALITY;Quality Preset;21;21;21;21;21;21
-GRAPICS_LOW;Low;22;22;22;22;22;22
-GRAPHICS_MEDIUM;Medium;23;23;23;23;23;23
-GRAPHICS_HIGH;High;24;24;24;24;24;24
-GRAPHICS_VHIGH;Very High;25;25;25;25;25;25
-AUDIO_MASTER;Master Volume;26;26;26;26;26;26
-GRAPHICS_DISTANCE;View Distance;27;27;27;27;27;27
-GRAPHICS_REFLECTIONS;Reflection Quality;28;28;28;28;28;28
-GRAPHICS_OFF;Off;29;29;29;29;29;29
-GRAPHICS_FEW;Few;30;30;30;30;30;30
-GRAPHICS_DOZEN;Dozen;31;31;31;31;31;31
-GRAPHICS_MANY;Many;32;32;32;32;32;32
-GRAPHICS_FLAWLESS;Flawless;33;33;33;33;33;33
-GRAPHICS_NONE;None;34;34;34;34;34;34
-GRAPHICS_CUSTOM;Custom;35;35;35;35;35;35
-GRAPHICS_EXTREME;Extreme;36;36;36;36;36;36
-GRAPHICS_GIRAYCOUNT;GI Probe Ray Count;37;37;37;37;37;37
-GRAPHICS_GILIGHTDELAY;GI Light Delay;38;38;38;38;38;38
+KEYS;en;de;es;pl;fr;it;rs;ru
+MENU_WARNING;WARNING:\n\nThis game is about a person's life, relationships, family, addiction, and ultimately, loneliness.\n\nIt covers heavy topics that many can't handle.;WARNUNG:\n\nIn diesem Spiel geht es um das Leben, die Beziehungen, die Familie, die Sucht und letztendlich die Einsamkeit eines Menschen.\n\nEs behandelt schwere Themen, mit denen viele nicht umgehen können.;ADVERTENCIA:\n\nEste juego trata sobre la vida, las relaciones, la familia, la adicción y, en última instancia, la soledad de una persona.\n\nCubre temas pesados que muchos no pueden manejar.;1;1;1;UPOZORENJE:\n\nOva igra se radi o nečijem životu, vezama, porodici, zavisnosti, i zaključno, o samoći.\n\nIgra sadrži teme koje mnogi ne mogu da podnesu.;ПРЕДУПРЕЖДЕНИЕ:\n\nЭта игра рассказывает о жизни человека, отношениях, семье, зависимости и, в конечном итоге, одиночестве.\n\nОна затрагивает тяжелые темы, с которыми не все могут справиться.
+MENU_STARTGAME;Start the Game;Starte das Spiel;Comenzar el juego;2;2;2;Počni igricu;
+MENU_BACK;Back;Zurück;Atrás;3;3;3;Nazad;
+MENU_APPLYANDSAVE;Apply and save;Bewerben und speichern;Aplicar y guardar;4;4;4;Potvrdi i sačuvaj;
+MENU_SETTINGS;Settings;Einstellungen;Ajustes;5;5;5;Podešavanja;
+MENU_GRAPHICS;Graphics;Grafik;Gráficos;6;6;6;Grafika;
+MENU_AUDIO;Audio;7;7;7;7;7;Zvuk;
+MENU_INPUT;Input;8;8;8;8;8;Kontrole;
+MENU_LANGUAGES;Languages;9;9;9;9;9;Jezici;
+MENU_OTHER;Other;10;10;10;10;10;Ostalo;
+MENU_CLICKTOCONTINUE;Click to continue;Klicke um Fortzufahren;Haz click para continuar;11;11;11;Klikni da nastaviš;
+GRAPHICS_SHADOW;Shadow Quality;12;12;12;12;12;Kvalitet Senke;
+GRAPHICS_PARTICLE;Particle Quality;13;13;13;13;13;13;
+GRAPHICS_TEXTURE;Texture Quality;14;14;14;14;14;Kvalitet Teksture;
+GRAPHICS_PBR;PBR Materials;15;15;15;15;15;PBR Materijali;
+GRAPHICS_LOD;Level of Detail Quality;16;16;16;16;16;16;
+GRAPHICS_VSYNC;Vertical Sync;17;17;17;17;17;17;
+GRAPHICS_FULLSCREEN;Fullscreen;18;18;18;18;18;18;
+GRAPHICS_GI;Global Illumination;19;19;19;19;19;19;
+GRAPHICS_VF;Volumetric Fog;20;20;20;20;20;20;
+GRAPHICS_QUALITY;Quality Preset;21;21;21;21;21;21;
+GRAPICS_LOW;Low;22;22;22;22;22;22;
+GRAPHICS_MEDIUM;Medium;23;23;23;23;23;23;
+GRAPHICS_HIGH;High;24;24;24;24;24;24;
+GRAPHICS_VHIGH;Very High;25;25;25;25;25;25;
+AUDIO_MASTER;Master Volume;26;26;26;26;26;26;
+GRAPHICS_DISTANCE;View Distance;27;27;27;27;27;27;
+GRAPHICS_REFLECTIONS;Reflection Quality;28;28;28;28;28;28;
+GRAPHICS_OFF;Off;29;29;29;29;29;29;
+GRAPHICS_FEW;Few;30;30;30;30;30;30;
+GRAPHICS_DOZEN;Dozen;31;31;31;31;31;31;
+GRAPHICS_MANY;Many;32;32;32;32;32;32;
+GRAPHICS_FLAWLESS;Flawless;33;33;33;33;33;33;
+GRAPHICS_NONE;None;34;34;34;34;34;34;
+GRAPHICS_CUSTOM;Custom;35;35;35;35;35;35;
+GRAPHICS_EXTREME;Extreme;36;36;36;36;36;36;
+GRAPHICS_GIRAYCOUNT;GI Probe Ray Count;37;37;37;37;37;37;
+GRAPHICS_GILIGHTDELAY;GI Light Delay;38;38;38;38;38;38;
