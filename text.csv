@@ -1,48 +1,48 @@
-KEYS;en;de;es;pl;fr;it;rs;ru;jp
-MENU_WARNING;WARNING:\n\nThis game is about a person's life, relationships, family, addiction, and ultimately, loneliness.\n\nIt covers heavy topics that many can't handle.;WARNUNG:\n\nIn diesem Spiel geht es um das Leben, die Beziehungen, die Familie, die Sucht und letztendlich die Einsamkeit eines Menschen.\n\nEs behandelt schwere Themen, mit denen viele nicht umgehen können.;ADVERTENCIA:\n\nEste juego trata sobre la vida, las relaciones, la familia, la adicción y, en última instancia, la soledad de una persona.\n\nCubre temas pesados que muchos no pueden manejar.;OSTRZEŻENIE:\n\nTa gra opowiada o życiu człowieka, relacjach, rodzinie, uzależnieniu i w końcu o samotności.\n\nPorusza ciężkie tematy, z którymi wielu nie potrafi sobie poradzić.;AVERTISSEMENT:\n\nCe jeu traite de la vie d'une personne, de ses relations, de sa famille, de la dépendance et, finalement, de la solitude.\n\nIl couvre des sujets lourds que beaucoup ne peuvent pas gérer.;AVVERTIMENTO:\n\nQuesto gioco riguarda la vita di una persona, le relazioni, la famiglia, la dipendenza e, in ultima analisi, la solitudine.\n\nCopre argomenti pesanti che molti non riescono a gestire.;UPOZORENJE:\n\nOva igra se radi o nečijem životu, vezama, porodici, zavisnosti, i zaključno, o samoći.\n\nIgra sadrži teme koje mnogi ne mogu da podnesu.;ПРЕДУПРЕЖДЕНИЕ:\n\nЭта игра рассказывает о жизни человека, отношениях, семье, зависимости и, в конечном итоге, одиночестве.\n\nОна затрагивает тяжелые темы, с которыми не все могут справиться.;警告：\n\nこのゲームは、人の人生、関係、家族、依存症、そして最終的には孤独について描いています。\n\n多くの人が扱えない重いテーマが含まれています。
-MENU_STARTGAME;Start the Game;Starte das Spiel;Comenzar el juego;Rozpocznij grę;Commencer le jeu;Avvia il gioco;Počni igricu;Начать игру;ゲームを開始
-MENU_BACK;Back;Zurück;Atrás;Wstecz;Retour;Indietro;Nazad;Назад;戻る
-MENU_APPLYANDSAVE;Apply and save;Bewerben und speichern;Aplicar y guardar;Zastosuj i zapisz;Appliquer et sauvegarder;Applica e salva;Potvrdi i sačuvaj;Применить и сохранить;適用して保存
-MENU_SETTINGS;Settings;Einstellungen;Ajustes;Ustawienia;Paramètres;Impostazioni;Podešavanja;Настройки;設定
-MENU_QUITGAME;Quit the Game;Spiel beenden;Salir del juego;Zakończ grę;Quitter le jeu;Esci dal gioco;Izađi iz igre;Выйти из игры;ゲームを終了
-MENU_FEEDBACK;Feedback;Feedback;Comentarios;Opinie;Retour;Feedback;Povratne informacije;Отзывы;フィードバック
-MENU_CREDITS;Credits;Credits;Créditos;Twórcy;Crédits;Crediti;Zasluge;Создатели;クレジット
-MENU_GRAPHICS;Graphics;Grafik;Gráficos;Grafika;Graphismes;Grafica;Grafika;Графика;グラフィックス
-MENU_AUDIO;Audio;Audio;Audio;Dźwięk;Audio;Audio;Zvuk;Аудио;オーディオ
-MENU_INPUT;Input;Eingabe;Entrada;Wejście;Entrée;Input;Kontrole;Ввод;入力
-MENU_LANGUAGES;Languages;Sprachen;Idiomas;Języki;Langues;Lingue;Jezici;Языки;言語
-MENU_OTHER;Other;Andere;Otro;Inne;Autre;Altro;Ostalo;Другое;その他
-MENU_CLICKTOCONTINUE;Click to continue;Klicke um Fortzufahren;Haz click para continuar;Kliknij, aby kontynuować;Cliquez pour continuer;Clicca per continuare;Klikni da nastaviš;Нажмите, чтобы продолжить;続行するにはクリックしてください
-GRAPHICS_SHADOW;Shadow Quality;Schattenqualität;Calidad de sombra;Jakość cieni;Qualité des ombres;Qualità delle ombre;Kvalitet Senke;Качество теней;シャドウの品質
-GRAPHICS_PARTICLE;Particle Quality;Partikelqualität;Calidad de partículas;Jakość cząsteczek;Qualité des particules;Qualità delle particelle;Kvalitet Čestica;Качество частиц;パーティクルの品質
-GRAPHICS_TEXTURE;Texture Quality;Texturqualität;Calidad de textura;Jakość tekstur;Qualité des textures;Qualità delle texture;Kvalitet Teksture;Качество текстур;テクスチャの品質
-GRAPHICS_PBR;PBR Materials;PBR Materialien;Materiales PBR;Materiały PBR;Matériaux PBR;Materiali PBR;PBR Materijali;Материалы PBR;PBRマテリアル
-GRAPHICS_LOD;Level of Detail Quality;Detailgradqualität;Calidad del nivel de detalle;Jakość poziomu szczegółowości;Qualité du niveau de détail;Qualità del livello di dettaglio;Kvalitet Detalja;Качество уровня детализации;ディテールの品質
-GRAPHICS_VSYNC;Vertical Sync;Vertikale Synchronisation;Sincronización vertical;Synchronizacja pionowa;Synchronisation verticale;Sincronizzazione verticale;Vertikalna Sinhronizacija;Вертикальная синхронизация;垂直同期
-GRAPHICS_FULLSCREEN;Fullscreen;Vollbild;Pantalla completa;Pełny ekran;Plein écran;Schermo intero;Ceo ekran;Полный экран;全画面
-GRAPHICS_GI;Global Illumination;Globale Beleuchtung;Iluminación global;Globalne oświetlenie;Éclairage global;Illuminazione globale;Globalno Osvetljenje;Глобальное освещение;グローバル照明
-GRAPHICS_VF;Volumetric Fog;Volumetrischer Nebel;Niebla volumétrica;Mgła wolumetryczna;Brouillard volumétrique;Nebbia volumetrica;Volumetrijska Magla;Объемный туман;ボリューメトリックフォグ
-GRAPHICS_QUALITY;Quality Preset;Qualitätsvorgabe;Preajuste de calidad;Ustawienia jakości;Préréglage de qualité;Preset di qualità;Unapred Podešen Kvalitet;Предустановки качества;品質プリセット
-GRAPHICS_LOW;Low;Niedrig;Bajo;Niska;Bas;Basso;Nizak;Низкое;低
-GRAPHICS_MEDIUM;Medium;Mittel;Medio;Średnia;Moyen;Medio;Srednji;Среднее;中
-GRAPHICS_HIGH;High;Hoch;Alto;Wysoka;Élevé;Alto;Visok;Высокое;高
-GRAPHICS_VHIGH;Very High;Sehr Hoch;Muy alto;Bardzo wysoka;Très élevé;Molto alto;Veoma Visok;Очень высокое;非常に高い
-AUDIO_MASTER;Master Volume;Hauptlautstärke;Volumen maestro;Głośność główna;Volume principal;Volume principale;Glavni zvuk;Основная громкость;マスターボリューム
-AUDIO_MUSIC;Music Volume;Musiklautstärke;Volumen de música;Głośność muzyki;Volume de la musique;Volume della musica;Jačina zvuka muzike;Громкость музыки;音楽ボリューム
-AUDIO_SOUND;Sound Volume;Tonlautstärke;Volumen de sonido;Głośność dźwięków;Volume du son;Volume del suono;Jačina zvuka;Громкость звука;サウンドボリューム
-AUDIO_AMBIANCE;Ambiance Volume;Umgebungslautstärke;Volumen de ambiente;Głośność otoczenia;Volume de l'ambiance;Volume dell'ambiente;Jačina ambijenta;Громкость окружающего звука;環境音ボリューム
-AUDIO_RADIO;Radio Volume;Radiolautstärke;Volumen de radio;Głośność radia;Volume de la radio;Volume della radio;Jačina zvuka radija;Громкость радио;ラジオボリューム
-AUDIO_FOOTSTEP;Footstep Volume;Schrittlautstärke;Volumen de pasos;Głośność kroków;Volume des pas;Volume dei passi;Jačina koraka;Громкость шагов;足音ボリューム
-GRAPHICS_DISTANCE;View Distance;Sichtweite;Distancia de visión;Odległość widzenia;Distance de vue;Distanza di visualizzazione;Udaljenost Pregleda;Дальность обзора;視野距離
-GRAPHICS_REFLECTIONS;Reflection Quality;Reflexionsqualität;Calidad de reflejos;Jakość odbić;Qualité des réflexions;Qualità dei riflessi;Kvalitet Refleksije;Качество отражений;反射の品質
-GRAPHICS_OFF;Off;Aus;Apagado;Wyłączone;Désactivé;Spento;Isključeno;Выключено;オフ
-GRAPHICS_FEW;Few;Wenig;Poco;Mało;Peu;Pochi;Malo;Мало;少
-GRAPHICS_DOZEN;Dozen;Dutzend;Docena;Tużin;Douzaine;Dozzina;Tucet;Дюжина;ダース
-GRAPHICS_MANY;Many;Viele;Muchos;Wiele;Beaucoup;Molti;Mnogo;Много;多い
-GRAPHICS_FLAWLESS;Flawless;Makellos;Impecable;Nieskazitelny;Impeccable;Perfetto;Besprekorno;Безупречное;完璧
-GRAPHICS_NONE;None;Keiner;Ninguno;Żaden;Aucun;Nessuno;Nijedan;Никакое;なし
-GRAPHICS_CUSTOM;Custom;Benutzerdefiniert;Personalizado;Niestandardowe;Personnalisé;Personalizzato;Prilagođeno;Пользовательское;カスタム
-GRAPHICS_EXTREME;Extreme;Extrem;Extremo;Ekstremalny;Extrême;Estremo;Ekstremno;Экстремальное;極端
-GRAPHICS_GIRAYCOUNT;GI Probe Ray Count;GI-Sondenstrahlanzahl;Recuento de rayos de sonda GI;Liczba promieni sondy GI;Nombre de rayons de sonde GI;Conteggio dei raggi della sonda GI;Broj GI Zraka;Количество лучей GI;GIプローブレイ数
-GRAPHICS_GILIGHTDELAY;GI Light Delay;GI-Lichtverzögerung;Retardo de luz GI;Opóźnienie światła GI;Délai de lumière GI;Ritardo luce GI;Kašnjenje GI Svetla;Задержка света GI;GIライトの遅延
-MENU_LOADING;Loading;Laden;Cargando;Ładowanie;Chargement;Caricamento;Učitavanje;Загрузка;読み込み中
+KEYS;en;de;es;pl;fr;it;rs;ru;jp;
+MENU_WARNING;WARNING:\n\nThis game is about a person's life, relationships, family, addiction, and ultimately, loneliness.\n\nIt covers heavy topics that many can't handle.;WARNUNG:\n\nIn diesem Spiel geht es um das Leben, die Beziehungen, die Familie, die Sucht und letztendlich die Einsamkeit eines Menschen.\n\nEs behandelt schwere Themen, mit denen viele nicht umgehen können.;ADVERTENCIA:\n\nEste juego trata sobre la vida, las relaciones, la familia, la adicción y, en última instancia, la soledad de una persona.\n\nCubre temas pesados que muchos no pueden manejar.;OSTRZEŻENIE:\n\nTa gra opowiada o życiu człowieka, relacjach, rodzinie, uzależnieniu i w końcu o samotności.\n\nPorusza ciężkie tematy, z którymi wielu nie potrafi sobie poradzić.;AVERTISSEMENT:\n\nCe jeu traite de la vie d'une personne, de ses relations, de sa famille, de la dépendance et, finalement, de la solitude.\n\nIl couvre des sujets lourds que beaucoup ne peuvent pas gérer.;AVVERTIMENTO:\n\nQuesto gioco riguarda la vita di una persona, le relazioni, la famiglia, la dipendenza e, in ultima analisi, la solitudine.\n\nCopre argomenti pesanti che molti non riescono a gestire.;UPOZORENJE:\n\nOva igra se radi o nečijem životu, vezama, porodici, zavisnosti, i zaključno, o samoći.\n\nIgra sadrži teme koje mnogi ne mogu da podnesu.;ПРЕДУПРЕЖДЕНИЕ:\n\nЭта игра рассказывает о жизни человека, отношениях, семье, зависимости и, в конечном итоге, одиночестве.\n\nОна затрагивает тяжелые темы, с которыми не все могут справиться.;警告：\n\nこのゲームは、人の人生、関係、家族、依存症、そして最終的には孤独について描いています。\n\n多くの人が扱えない重いテーマが含まれています。;
+MENU_STARTGAME;Start the Game;Starte das Spiel;Comenzar el juego;Rozpocznij grę;Commencer le jeu;Avvia il gioco;Počni igricu;Начать игру;ゲームを開始;
+MENU_BACK;Back;Zurück;Atrás;Wstecz;Retour;Indietro;Nazad;Назад;戻る;
+MENU_APPLYANDSAVE;Apply and save;Bewerben und speichern;Aplicar y guardar;Zastosuj i zapisz;Appliquer et sauvegarder;Applica e salva;Potvrdi i sačuvaj;Применить и сохранить;適用して保存;
+MENU_SETTINGS;Settings;Einstellungen;Ajustes;Ustawienia;Paramètres;Impostazioni;Podešavanja;Настройки;設定;
+MENU_QUITGAME;Quit the Game;Spiel beenden;Salir del juego;Zakończ grę;Quitter le jeu;Esci dal gioco;Izađi iz igre;Выйти из игры;ゲームを終了;
+MENU_FEEDBACK;Feedback;Feedback;Comentarios;Opinie;Retour;Feedback;Povratne informacije;Отзывы;フィードバック;
+MENU_CREDITS;Credits;Credits;Créditos;Twórcy;Crédits;Crediti;Zasluge;Создатели;クレジット;
+MENU_GRAPHICS;Graphics;Grafik;Gráficos;Grafika;Graphismes;Grafica;Grafika;Графика;グラフィックス;
+MENU_AUDIO;Audio;Audio;Audio;Dźwięk;Audio;Audio;Zvuk;Аудио;オーディオ;
+MENU_INPUT;Input;Eingabe;Entrada;Wejście;Entrée;Input;Kontrole;Ввод;入力;
+MENU_LANGUAGES;Languages;Sprachen;Idiomas;Języki;Langues;Lingue;Jezici;Языки;言語;
+MENU_OTHER;Other;Andere;Otro;Inne;Autre;Altro;Ostalo;Другое;その他;
+MENU_CLICKTOCONTINUE;Click to continue;Klicke um Fortzufahren;Haz click para continuar;Kliknij, aby kontynuować;Cliquez pour continuer;Clicca per continuare;Klikni da nastaviš;Нажмите, чтобы продолжить;続行するにはクリックしてください;
+GRAPHICS_SHADOW;Shadow Quality;Schattenqualität;Calidad de sombra;Jakość cieni;Qualité des ombres;Qualità delle ombre;Kvalitet Senke;Качество теней;シャドウの品質;
+GRAPHICS_PARTICLE;Particle Quality;Partikelqualität;Calidad de partículas;Jakość cząsteczek;Qualité des particules;Qualità delle particelle;Kvalitet Čestica;Качество частиц;パーティクルの品質;
+GRAPHICS_TEXTURE;Texture Quality;Texturqualität;Calidad de textura;Jakość tekstur;Qualité des textures;Qualità delle texture;Kvalitet Teksture;Качество текстур;テクスチャの品質;
+GRAPHICS_PBR;PBR Materials;PBR Materialien;Materiales PBR;Materiały PBR;Matériaux PBR;Materiali PBR;PBR Materijali;Материалы PBR;PBRマテリアル;
+GRAPHICS_LOD;Level of Detail Quality;Detailgradqualität;Calidad del nivel de detalle;Jakość poziomu szczegółowości;Qualité du niveau de détail;Qualità del livello di dettaglio;Kvalitet Detalja;Качество уровня детализации;ディテールの品質;
+GRAPHICS_VSYNC;Vertical Sync;Vertikale Synchronisation;Sincronización vertical;Synchronizacja pionowa;Synchronisation verticale;Sincronizzazione verticale;Vertikalna Sinhronizacija;Вертикальная синхронизация;垂直同期;
+GRAPHICS_FULLSCREEN;Fullscreen;Vollbild;Pantalla completa;Pełny ekran;Plein écran;Schermo intero;Ceo ekran;Полный экран;全画面;
+GRAPHICS_GI;Global Illumination;Globale Beleuchtung;Iluminación global;Globalne oświetlenie;Éclairage global;Illuminazione globale;Globalno Osvetljenje;Глобальное освещение;グローバル照明;
+GRAPHICS_VF;Volumetric Fog;Volumetrischer Nebel;Niebla volumétrica;Mgła wolumetryczna;Brouillard volumétrique;Nebbia volumetrica;Volumetrijska Magla;Объемный туман;ボリューメトリックフォグ;
+GRAPHICS_QUALITY;Quality Preset;Qualitätsvorgabe;Preajuste de calidad;Ustawienia jakości;Préréglage de qualité;Preset di qualità;Unapred Podešen Kvalitet;Предустановки качества;品質プリセット;
+GRAPHICS_LOW;Low;Niedrig;Bajo;Niska;Bas;Basso;Nizak;Низкое;低;
+GRAPHICS_MEDIUM;Medium;Mittel;Medio;Średnia;Moyen;Medio;Srednji;Среднее;中;
+GRAPHICS_HIGH;High;Hoch;Alto;Wysoka;Élevé;Alto;Visok;Высокое;高;
+GRAPHICS_VHIGH;Very High;Sehr Hoch;Muy alto;Bardzo wysoka;Très élevé;Molto alto;Veoma Visok;Очень высокое;非常に高い;
+AUDIO_MASTER;Master Volume;Hauptlautstärke;Volumen maestro;Głośność główna;Volume principal;Volume principale;Glavni zvuk;Основная громкость;マスターボリューム;
+AUDIO_MUSIC;Music Volume;Musiklautstärke;Volumen de música;Głośność muzyki;Volume de la musique;Volume della musica;Jačina zvuka muzike;Громкость музыки;音楽ボリューム;
+AUDIO_SOUND;Sound Volume;Tonlautstärke;Volumen de sonido;Głośność dźwięków;Volume du son;Volume del suono;Jačina zvuka;Громкость звука;サウンドボリューム;
+AUDIO_AMBIANCE;Ambiance Volume;Umgebungslautstärke;Volumen de ambiente;Głośność otoczenia;Volume de l'ambiance;Volume dell'ambiente;Jačina ambijenta;Громкость окружающего звука;環境音ボリューム;
+AUDIO_RADIO;Radio Volume;Radiolautstärke;Volumen de radio;Głośność radia;Volume de la radio;Volume della radio;Jačina zvuka radija;Громкость радио;ラジオボリューム;
+AUDIO_FOOTSTEP;Footstep Volume;Schrittlautstärke;Volumen de pasos;Głośność kroków;Volume des pas;Volume dei passi;Jačina koraka;Громкость шагов;足音ボリューム;
+GRAPHICS_DISTANCE;View Distance;Sichtweite;Distancia de visión;Odległość widzenia;Distance de vue;Distanza di visualizzazione;Udaljenost Pregleda;Дальность обзора;視野距離;
+GRAPHICS_REFLECTIONS;Reflection Quality;Reflexionsqualität;Calidad de reflejos;Jakość odbić;Qualité des réflexions;Qualità dei riflessi;Kvalitet Refleksije;Качество отражений;反射の品質;
+GRAPHICS_OFF;Off;Aus;Apagado;Wyłączone;Désactivé;Spento;Isključeno;Выключено;オフ;
+GRAPHICS_FEW;Few;Wenig;Poco;Mało;Peu;Pochi;Malo;Мало;少;
+GRAPHICS_DOZEN;Dozen;Dutzend;Docena;Tużin;Douzaine;Dozzina;Tucet;Дюжина;ダース;
+GRAPHICS_MANY;Many;Viele;Muchos;Wiele;Beaucoup;Molti;Mnogo;Много;多い;
+GRAPHICS_FLAWLESS;Flawless;Makellos;Impecable;Nieskazitelny;Impeccable;Perfetto;Besprekorno;Безупречное;完璧;
+GRAPHICS_NONE;None;Keiner;Ninguno;Żaden;Aucun;Nessuno;Nijedan;Никакое;なし;
+GRAPHICS_CUSTOM;Custom;Benutzerdefiniert;Personalizado;Niestandardowe;Personnalisé;Personalizzato;Prilagođeno;Пользовательское;カスタム;
+GRAPHICS_EXTREME;Extreme;Extrem;Extremo;Ekstremalny;Extrême;Estremo;Ekstremno;Экстремальное;極端;
+GRAPHICS_GIRAYCOUNT;GI Probe Ray Count;GI-Sondenstrahlanzahl;Recuento de rayos de sonda GI;Liczba promieni sondy GI;Nombre de rayons de sonde GI;Conteggio dei raggi della sonda GI;Broj GI Zraka;Количество лучей GI;GIプローブレイ数;
+GRAPHICS_GILIGHTDELAY;GI Light Delay;GI-Lichtverzögerung;Retardo de luz GI;Opóźnienie światła GI;Délai de lumière GI;Ritardo luce GI;Kašnjenje GI Svetla;Задержка света GI;GIライトの遅延;
+MENU_LOADING;Loading;Laden;Cargando;Ładowanie;Chargement;Caricamento;Učitavanje;Загрузка;読み込み中;
