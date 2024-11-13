@@ -27,6 +27,9 @@ jobs:
         path: public-repo
         token: ${{ secrets.GH_PAT }}
 
+    - name: Create target directory
+      run: mkdir -p private-repo/game/Core/Languages
+
     - name: Copy translation file
       run: cp public-repo/text.csv private-repo/game/Core/Languages/text.csv
 
