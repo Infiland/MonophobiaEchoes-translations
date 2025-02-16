@@ -30,7 +30,7 @@ GRAPHICS_VHIGH;Very High;Sehr Hoch;Muy alto;Bardzo wysoka;Très élevé;Molto al
 AUDIO_MASTER;Master Volume;Hauptlautstärke;Volumen maestro;Głośność główna;Volume principal;Volume principale;Glavni zvuk;Основная громкость;マスターボリューム;
 AUDIO_MUSIC;Music Volume;Musiklautstärke;Volumen de música;Głośność muzyki;Volume de la musique;Volume della musica;Jačina zvuka muzike;Громкость музыки;音楽ボリューム;
 AUDIO_SOUND;Sound Volume;Tonlautstärke;Volumen de sonido;Głośność dźwięków;Volume du son;Volume del suono;Jačina zvuka;Громкость звука;サウンドボリューム;
-AUDIO_AMBIANCE;Ambiance Volume;Umgebungslautstärke;Volumen de ambiente;Głośność otoczenia;Volume de l'ambiance;Volume dell'ambiente;Jačina ambijenta;Громкость окружающего звука;環境音ボリューム;
+AUDIO_AMBIENCE;Ambience Volume;Umgebungslautstärke;Volumen de ambiente;Głośność otoczenia;Volume de l'ambiance;Volume dell'ambiente;Jačina ambijenta;Громкость окружающего звука;環境音ボリューム;
 AUDIO_RADIO;Radio Volume;Radiolautstärke;Volumen de radio;Głośność radia;Volume de la radio;Volume della radio;Jačina zvuka radija;Громкость радио;ラジオボリューム;
 AUDIO_FOOTSTEP;Footstep Volume;Schrittlautstärke;Volumen de pasos;Głośność kroków;Volume des pas;Volume dei passi;Jačina koraka;Громкость шагов;足音ボリューム;
 GRAPHICS_DISTANCE;View Distance;Sichtweite;Distancia de visión;Odległość widzenia;Distance de vue;Distanza di visualizzazione;Udaljenost Pregleda;Дальность обзора;視野距離;
@@ -46,3 +46,4 @@ GRAPHICS_EXTREME;Extreme;Extrem;Extremo;Ekstremalny;Extrême;Estremo;Ekstremno;�
 GRAPHICS_GIRAYCOUNT;GI Probe Ray Count;GI-Sondenstrahlanzahl;Recuento de rayos de sonda GI;Liczba promieni sondy GI;Nombre de rayons de sonde GI;Conteggio dei raggi della sonda GI;Broj GI Zraka;Количество лучей GI;GIプローブレイ数;
 GRAPHICS_GILIGHTDELAY;GI Light Delay;GI-Lichtverzögerung;Retardo de luz GI;Opóźnienie światła GI;Délai de lumière GI;Ritardo luce GI;Kašnjenje GI Svetla;Задержка света GI;GIライトの遅延;
 MENU_LOADING;Loading;Laden;Cargando;Ładowanie;Chargement;Caricamento;Učitavanje;Загрузка;読み込み中;
+GRAPHICS_GRASS;Grass Interaction;Grass Interaktion;Interacción de hierba;Interakcja trawy;Interaction de la grâce;Interazione di erba;Interakcija trave;Взаимодействие травы;草の相互作用;
