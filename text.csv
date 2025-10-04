@@ -13,6 +13,7 @@ MENU_INPUT;Input;Eingabe;Entrada;Wejście;Entrée;Input;Kontrole;Ввод;入力
 MENU_LANGUAGES;Languages;Sprachen;Idiomas;Języki;Langues;Lingue;Jezici;Языки;言語
 MENU_OTHER;Other;Andere;Otro;Inne;Autre;Altro;Ostalo;Другое;その他
 MENU_CLICKTOCONTINUE;Click to continue;Klicke um Fortzufahren;Haz click para continuar;Kliknij, aby kontynuować;Cliquez pour continuer;Clicca per continuare;Klikni da nastaviš;Нажмите, чтобы продолжить;続行するにはクリックしてください
+MENU_LOADING;Loading;Laden;Cargando;Ładowanie;Chargement;Caricamento;Učitavanje;Загрузка;読み込み中
 GRAPHICS_SHADOW;Shadow Quality;Schattenqualität;Calidad de sombra;Jakość cieni;Qualité des ombres;Qualità delle ombre;Kvalitet Senke;Качество теней;シャドウの品質
 GRAPHICS_PARTICLE;Particle Quality;Partikelqualität;Calidad de partículas;Jakość cząsteczek;Qualité des particules;Qualità delle particelle;Kvalitet Čestica;Качество частиц;パーティクルの品質
 GRAPHICS_TEXTURE;Texture Quality;Texturqualität;Calidad de textura;Jakość tekstur;Qualité des textures;Qualità delle texture;Kvalitet Teksture;Качество текстур;テクスチャの品質
@@ -27,12 +28,6 @@ GRAPHICS_LOW;Low;Niedrig;Bajo;Niska;Bas;Basso;Nizak;Низкое;低
 GRAPHICS_MEDIUM;Medium;Mittel;Medio;Średnia;Moyen;Medio;Srednji;Среднее;中
 GRAPHICS_HIGH;High;Hoch;Alto;Wysoka;Élevé;Alto;Visok;Высокое;高
 GRAPHICS_VHIGH;Very High;Sehr Hoch;Muy alto;Bardzo wysoka;Très élevé;Molto alto;Veoma Visok;Очень высокое;非常に高い
-AUDIO_MASTER;Master Volume;Hauptlautstärke;Volumen maestro;Głośność główna;Volume principal;Volume principale;Glavni zvuk;Основная громкость;マスターボリューム
-AUDIO_MUSIC;Music Volume;Musiklautstärke;Volumen de música;Głośność muzyki;Volume de la musique;Volume della musica;Jačina zvuka muzike;Громкость музыки;音楽ボリューム
-AUDIO_SOUND;Sound Volume;Tonlautstärke;Volumen de sonido;Głośność dźwięków;Volume du son;Volume del suono;Jačina zvuka;Громкость звука;サウンドボリューム
-AUDIO_AMBIENCE;Ambience Volume;Umgebungslautstärke;Volumen de ambiente;Głośność otoczenia;Volume de l'ambiance;Volume dell'ambiente;Jačina ambijenta;Громкость окружающего звука;環境音ボリューム
-AUDIO_RADIO;Radio Volume;Radiolautstärke;Volumen de radio;Głośność radia;Volume de la radio;Volume della radio;Jačina zvuka radija;Громкость радио;ラジオボリューム
-AUDIO_FOOTSTEP;Footstep Volume;Schrittlautstärke;Volumen de pasos;Głośność kroków;Volume des pas;Volume dei passi;Jačina koraka;Громкость шагов;足音ボリューム
 GRAPHICS_DISTANCE;View Distance;Sichtweite;Distancia de visión;Odległość widzenia;Distance de vue;Distanza di visualizzazione;Udaljenost Pregleda;Дальность обзора;視野距離
 GRAPHICS_REFLECTIONS;Reflection Quality;Reflexionsqualität;Calidad de reflejos;Jakość odbić;Qualité des réflexions;Qualità dei riflessi;Kvalitet Refleksije;Качество отражений;反射の品
 GRAPHICS_OFF;Off;Aus;Apagado;Wyłączone;Désactivé;Spento;Isključeno;Выключено;オフ
@@ -45,5 +40,11 @@ GRAPHICS_CUSTOM;Custom;Benutzerdefiniert;Personalizado;Niestandardowe;Personnali
 GRAPHICS_EXTREME;Extreme;Extrem;Extremo;Ekstremalny;Extrême;Estremo;Ekstremno;Экстремальное;極端
 GRAPHICS_GIRAYCOUNT;GI Probe Ray Count;GI-Sondenstrahlanzahl;Recuento de rayos de sonda GI;Liczba promieni sondy GI;Nombre de rayons de sonde GI;Conteggio dei raggi della sonda GI;Broj GI Zraka;Количество лучей GI;GIプローブレイ数
 GRAPHICS_GILIGHTDELAY;GI Light Delay;GI-Lichtverzögerung;Retardo de luz GI;Opóźnienie światła GI;Délai de lumière GI;Ritardo luce GI;Kašnjenje GI Svetla;Задержка света GI;GIライトの遅延
-MENU_LOADING;Loading;Laden;Cargando;Ładowanie;Chargement;Caricamento;Učitavanje;Загрузка;読み込み中
 GRAPHICS_GRASS;Grass Interaction;Grass Interaktion;Interacción de hierba;Interakcja trawy;Interaction de la grâce;Interazione di erba;Interakcija trave;Взаимодействие травы;草の相互作用
+AUDIO_MASTER;Master Volume;Hauptlautstärke;Volumen maestro;Głośność główna;Volume principal;Volume principale;Glavni zvuk;Основная громкость;マスターボリューム
+AUDIO_MUSIC;Music Volume;Musiklautstärke;Volumen de música;Głośność muzyki;Volume de la musique;Volume della musica;Jačina zvuka muzike;Громкость музыки;音楽ボリューム
+AUDIO_SOUND;Sound Volume;Tonlautstärke;Volumen de sonido;Głośność dźwięków;Volume du son;Volume del suono;Jačina zvuka;Громкость звука;サウンドボリューム
+AUDIO_AMBIENCE;Ambience Volume;Umgebungslautstärke;Volumen de ambiente;Głośność otoczenia;Volume de l'ambiance;Volume dell'ambiente;Jačina ambijenta;Громкость окружающего звука;環境音ボリューム
+AUDIO_RADIO;Radio Volume;Radiolautstärke;Volumen de radio;Głośność radia;Volume de la radio;Volume della radio;Jačina zvuka radija;Громкость радио;ラジオボリューム
+AUDIO_FOOTSTEP;Footstep Volume;Schrittlautstärke;Volumen de pasos;Głośność kroków;Volume des pas;Volume dei passi;Jačina koraka;Громкость шагов;足音ボリューム
+AUDIO_COMMENTARY;Commentary Volume;Kommentarlautstärke;Volumen de comentario;Głośność komentarza;Volume du commentaire;Volume del commento;Jačina komentara;Громкость комментария;コメントボリューム
